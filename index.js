@@ -1,4 +1,4 @@
-import DataTable from './src/DropdownMenu';
+import DropdownMenu from './src/DropdownMenu';
 
 
-export default DataTable;
+export default DropdownMenu;
