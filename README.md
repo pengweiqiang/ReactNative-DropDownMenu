@@ -1,18 +1,18 @@
 
-# react-native-dropdownmenu
+# react-native-dropdownmenus
 
 ## Getting started
 
-`$ npm install react-native-dropdownmenu --save`
+`$ npm install react-native-dropdownmenus --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-dropdownmenu`
+`$ react-native link react-native-dropdownmenus`
 
 
 ## Usage
 ```javascript
-import Dropdownmenu from 'react-native-dropdownmenu';
+import Dropdownmenu from 'react-native-dropdownmenus';
 
 let conditionData = [["one", "tow", "three"], ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
                         ["Java", "PHP", "C#", "JS", "C++", "Python"]];
