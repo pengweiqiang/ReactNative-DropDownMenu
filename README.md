@@ -13,6 +13,7 @@
 ## Usage
 ```javascript
 import Dropdownmenu from 'react-native-dropdownmenu';
+
 let conditionData = [["one", "tow", "three"], ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
                         ["Java", "PHP", "C#", "JS", "C++", "Python"]];
 <DropdownMenu
@@ -34,5 +35,18 @@ let conditionData = [["one", "tow", "three"], ["Monday", "Tuesday", "Wednesday",
                 
 </DropdownMenu>
 ```
+### Param
+| Parameter | Type | Default | Description
+| ------ | ------ | ------ | ------ |
+| bgColor | string |  | backgroud color
+| tintColor | string |  | normal text color
+| activityTintColor | string |  | active text color 
+| maxHeight | number |  | max Height
+| hanlder | func |  | selected item onclickListener
+| data | Array |  | show Data
+| selectIndex | string |  | default selected index
+
+
+
 
   
