@@ -1,6 +1,8 @@
 
 # react-native-dropdownmenus
 
+![demo](/screenShot/demo.png)
+
 ## Getting started
 
 `$ npm install react-native-dropdownmenus --save`
