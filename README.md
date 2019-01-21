@@ -1,7 +1,7 @@
 
 # react-native-dropdownmenus
 
-![demo](/screenShot/demo.png)
+![demo](https://github.com/pengweiqiang/ReactNative-DropDownMenu/blob/master/screenShot/demo.png)
 
 ## Getting started
 
