@@ -1,7 +1,7 @@
 
 # react-native-dropdownmenus
 
-![demo](https://github.com/pengweiqiang/ReactNative-DropDownMenu/blob/master/screenShot/demo.png)
+<img height="600" width="300" src="https://raw.githubusercontent.com/pengweiqiang/ReactNative-DropDownMenu/master/screenShot/demo.png"  align=center />
 
 ## Getting started
 
