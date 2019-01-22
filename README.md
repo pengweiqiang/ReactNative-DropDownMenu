@@ -1,7 +1,7 @@
 
 # react-native-dropdownmenus
 
-<img height="600" width="300" src="https://raw.githubusercontent.com/pengweiqiang/ReactNative-DropDownMenu/master/screenShot/demo.png"  align=center />
+<img height="530" width="300" src="https://raw.githubusercontent.com/pengweiqiang/ReactNative-DropDownMenu/master/screenShot/demo.png"  align=center />
 
 ## Getting started
 
@@ -29,8 +29,7 @@ let conditionData = [["one", "tow", "three"], ["Monday", "Tuesday", "Wednesday",
                 // titleStyle={{color: '#333333'}}
                 maxHeight={300}
                 handler={(selection, row) =>
-                    // this.setState({text: data[selection][row]})
-                    this._conditionChange(selection,row)
+                    console.log(selection,row)
                 }
                 data={conditionData}
                 selectIndex={[0,2,0]}>
